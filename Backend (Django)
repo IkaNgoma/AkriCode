@@ -1,0 +1,4 @@
+pip install django djangorestframework psycopg2-binary
+django-admin startproject user_auth
+cd user_auth
+django-admin startapp authentication
